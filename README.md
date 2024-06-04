@@ -102,23 +102,8 @@ Monitor your ECS service using AWS CloudWatch metrics and logs.
 8. Conclusion
 In conclusion, AWS ECS offers a robust and user-friendly platform for deploying and managing containerized applications. We covered the fundamentals of ECS, compared it with its alternatives, discussed its pros and cons, and walked through the installation, configuration, and deployment of a sample application.
 
-About
-No description, website, or topics provided.
-Resources
- Readme
- Activity
-Stars
- 0 stars
-Watchers
- 1 watching
-Forks
- 0 forks
-Report repository
-Releases
-No releases published
-Packages
-No packages published
-Footer
+
+
 © 2024 GitHub, Inc.
 Footer navigation
 Terms
